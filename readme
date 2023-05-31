@@ -1,0 +1,3 @@
+Simple chat application creating using expressJS with the implementation of web sockets.
+
+To start the project, type: node app.js / nodemon app.js
